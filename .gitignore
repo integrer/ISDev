@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/ris_bib/ris_bib_cssln/sqlite_first_steps/Form1.Designer_other.cs
+/ris_bib/ris_bib_cssln/sqlite_first_steps/Form_other.cs
+/ris_bib/ris_bib_cssln/sqlite_first_steps/Form_other.resx
